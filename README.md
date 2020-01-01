@@ -1,6 +1,6 @@
 # Flutter Todo example
 
-This project is Flutter SUPER SIMPLE Todo example for newbies.
+This project is SUPER SIMPLE Flutter Todo example for newbies.
 
 It uses mobx, mobx-flutter to reflects changes of todo data to ListView immediately. 
 
